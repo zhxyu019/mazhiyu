@@ -1,0 +1,136 @@
+[
+  {
+    "role": "Founder-in-Residence",
+    "organisation": "Young Founder's Summit",
+    "startDate": "Dec 2023",
+    "endDate": "Present",
+    "experiences": ["Awarded Scholarship to attend Young Founder's Summit, a 6-month bootcamp to help youths get involved in entrepreneurship", "In the mentorship phase for startup MediSync, an integrated health platform for users to track all health data"],
+    "imageSrc": "history/YFS.png"
+  },
+  {
+    "role": "Founder, CEO",
+    "organisation": "Lifesync.co",
+    "startDate": "Sept 2023",
+    "endDate": "Present",
+    "experiences": ["Founder of startup LifeSync.co, a hardware & software integrated system for efficient elderly medication management through the use of microneedling technology"],
+    "imageSrc": "history/LifeSyncLogo.png"
+  },
+  {
+    "role": "Research fellow",
+    "organisation": "NRP",
+    "startDate": "March 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Worked on computing project under the Nanyang Research Programme (NRP) to explore the Particle Swarm Optimisation Algorithm for the Travelling Salesman Problem & its application in Routing Optimisation for e-waste collection",
+      "Mentored under Assistant Professor at NIE (National Institute of Education)"
+    ],
+    "imageSrc": "history/NRP1.png"
+  },
+  {
+    "role": "Research fellow",
+    "organisation": "DSO",
+    "startDate": "Dec 2023",
+    "endDate": "Dec 2023",
+    "experiences": [
+      "Worked on chatbot development as part of the Defence Science Organisation (DSO) digital division under the DSTA Internship Programme",
+      "Developed Rating Tool for DSO's Large Language Model (LLM) Playground"
+    ],
+    "imageSrc": "history/DSO.png"
+  },
+  {
+    "role": "Student",
+    "organisation": "SG Code Campus",
+    "startDate": "Nov 2022",
+    "endDate": "Jan 2024",
+    "experiences": [
+      "Graduated from year-long AWS (Amazon Web Services) course hosted by SG Code Campus and the Infocomm Media Development Authority (IMDA)",
+      "Created NParks wayfinding tool using AWS Rekognition Technologies"
+    ],
+    "imageSrc": "history/AWS.png"
+  },
+  {
+    "role": "UI/UX Intern",
+    "organisation": "Google",
+    "startDate": "Jan 2023",
+    "endDate": "Apr 2023",
+    "experiences": [
+      "Worked on various UI/UX prototypes for collaboration projects & corporate presentations"
+    ],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Student, Visual Design Exco",
+    "organisation": "Swift Accelerator Programme",
+    "startDate": "Mar 2022",
+    "endDate": "Feb 2023",
+    "experiences": [
+      "Graduated from year-long iOS app development course hosted by Apple and the Infocomm Media Development Authority (IMDA)",
+      "Created and published app on the App Store, GiftDuck"
+    ],
+    "imageSrc": "history/SAP.png"
+  },
+  {
+    "role": "Research fellow",
+    "organisation": "R@YDSP",
+    "startDate": "Sept 2022",
+    "endDate": "Dec 2022",
+    "experiences": [
+      "Worked on Machine Learning Project as part of the R@YDSP (Young Defence Scientists' Programme",
+      "Developed & improved current drone detection models to detect aerial objects at various heights and backgrounds"
+    ],
+    "imageSrc": "history/DSTA.png"
+  },
+  {
+    "role": "Intern",
+    "organisation": "Science Centre Singapore",
+    "startDate": "Sept 2022",
+    "endDate": "",
+    "experiences": [
+      "Worked on creating education materials for DFS (Digital Fabrication Space) Singapore",
+      "Created water tank mechanism using Arduino IDE for future exhibition purposes"
+    ],
+    "imageSrc": "history/SCS.png"
+  },
+  {
+    "role": "Competition Mentor",
+    "organisation": "",
+    "startDate": "Mar 2022",
+    "endDate": "May 2022",
+    "experiences": [
+      "Created workshop materials and conducted workshops to TI-GC Graphing Calculator competition participants on the use of a TI84x graphing calculator"
+    ],
+    "imageSrc": "history/GDC.png"
+  },
+  {
+    "role": "Organising Team",
+    "organisation": "",
+    "startDate": "Jan 2022",
+    "endDate": "Sept 2022",
+    "experiences": [
+      "Organised a Laser-cutting project in conjuction with the school's Girls Brigade CCA",
+      "Conducted workshops to teach students regarding Figma, SVG Designs, Laser-Cutting technologies"
+    ],
+    "imageSrc": "history/figma.png"
+  },
+  {
+    "role": "Organising Team",
+    "organisation": "",
+    "startDate": "Apr 2021",
+    "endDate": "Aug 2021",
+    "experiences": [
+      "Organised the Visualise 2030: Data-storytelling Competition, aimed at youths with an interest in block-based programming",
+      "Created workshop materials and conducted workshops to over 70 participants to teach them about Scratch, a block-based game development tool"
+    ],
+    "imageSrc": "history/scratch (1).png"
+  },
+  {
+    "role": "STEM Week Representative",
+    "organisation": "",
+    "startDate": "Mar 2021",
+    "endDate": "",
+    "experiences": [
+      "Hosted Robomasters booth at school-based STEM fair"
+    ],
+    "imageSrc": "history/robomasters.png"
+  }
+]
