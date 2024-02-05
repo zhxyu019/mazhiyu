@@ -13,7 +13,7 @@
   },
   {
     "title": "LifeSync",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/lifesync.png",
     "description": "2023 • An integrated medication system targeted at the elderly and their caretakers using microneedling technology (hardware) and Cloud Storage (software)",
     "skills": ["Swift", "Figma", "React", "Tinkercad", "Fusion360", "AWS Cloud", "LLM Models"]
   },
@@ -31,7 +31,7 @@
   },
   {
     "title": "Evaluation of Drone Detection Technologies",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/ss030.png",
     "description": "2022 • Academic research paper that compares the YOLOv5 object detection model against other ML models to detect drones and aerial objects more efficiently",
     "skills": ["Python", "Roboflow", "Tensorflow", "Mavic & Phantom Drone"]
   },

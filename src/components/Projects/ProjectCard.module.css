@@ -8,8 +8,8 @@
   box-shadow: 0 16px 14px 0 #04152d; 
   padding: 18px 24px;
   max-width: 100%; 
-  border: 1px solid rgba(255,255,255,0.2);
-  margin: 40px;
+  border: 1px solid rgba(255,255,255,0.4);
+  margin: 20px;
 }
 
 .container :hover {
