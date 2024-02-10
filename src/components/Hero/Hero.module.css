@@ -22,7 +22,6 @@
 
 .title {
   font-size: 72px;
-  font-weight: 900;
   margin-bottom: 33px;
   font-family: var(--font-roboto);
   background: linear-gradient(
@@ -41,6 +40,7 @@
 .description {
   font-size: 30px;
   font-family: var(--font-roboto);
+  font-weight: bolder !important;
   margin-bottom: 52px;
 }
 
