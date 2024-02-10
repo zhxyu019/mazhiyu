@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Microbit",
+    "description":"Frontend Web Development",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "Minecraft: Education Edition",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "Scratch",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Arduino",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "EV3 Mindstorms",
+    "imageSrc": "skills/graphql.png"
+  },
+  {
+    "title": "Robomasters",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Xcode",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Visual Studio Code",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Github",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Gitlab",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Firebase",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Postman",
+    "imageSrc": "skills/figma.png"
+  }
+]

@@ -1,6 +1,7 @@
 [
   {
     "title": "HTML",
+    "description":"Frontend Web Development",
     "imageSrc": "skills/html.png"
   },
   {
@@ -8,11 +9,11 @@
     "imageSrc": "skills/css.png"
   },
   {
-    "title": "React",
+    "title": "Javascript",
     "imageSrc": "skills/react.png"
   },
   {
-    "title": "Node",
+    "title": "R",
     "imageSrc": "skills/node.png"
   },
   {
@@ -20,11 +21,11 @@
     "imageSrc": "skills/graphql.png"
   },
   {
-    "title": "MongoDB",
+    "title": "C",
     "imageSrc": "skills/mongodb.png"
   },
   {
-    "title": "Figma",
+    "title": "Python",
     "imageSrc": "skills/figma.png"
   },
   {
@@ -32,7 +33,11 @@
     "imageSrc": "skills/figma.png"
   },
   {
-    "title": "Figma",
+    "title": "React",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "TypeScript",
     "imageSrc": "skills/figma.png"
   }
 ]

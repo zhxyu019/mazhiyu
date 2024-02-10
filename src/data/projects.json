@@ -34,8 +34,8 @@
   {
     "title": "Evaluation of Drone Detection Technologies",
     "imageSrc": "projects/ss030.png",
-    "description": "2022 • Academic research paper that compares the YOLOv5 object detection model against other ML models to detect drones and aerial objects more efficiently",
-    "skills": ["Python", "Roboflow", "Tensorflow", "Mavic & Phantom Drone"],
+    "description": "2022 • Academic research paper that compares the YOLOv5 object detection model against other ML models to detect drones and aerial objects using convolutional neural networks (CNNs)",
+    "skills": ["Python", "Roboflow", "Tensorflow"],
     "demo": "https://www.dsta.gov.sg/ydsp/projects/files/reports/EVALUATION%20OF%20DRONE%20DETECTION%20TECHNOLOGIES.pdf"
   },
   {

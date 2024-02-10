@@ -2,36 +2,35 @@
 
 .container {
   display: flex;
-  flex-direction: column; 
+  flex-direction: row;  
   border-radius: 10px;
-  background-color: var(--color-dark);
   box-shadow: 0 16px 14px 0 #04152d; 
   padding: 20px 20px;
   max-width: 100%; 
-  border: 1px solid rgba(255,255,255,0.4);
-  margin: 0px;
 }
 
-.container:hover {
+.image:hover {
   background-color: var(--color-secondary);
 }
 
 .image {
   border-radius: 10px;
-  width: 100%;
+  width: 90%;
   display: block;
   margin: auto;
+  border: 1px solid rgba(255,255,255,0.4);
+  background-color: var(--color-dark);
+  padding: 20px 20px;
 }
 
 .title {
-  margin-top: 30px;
   font-size: 30px;
   font-weight: 700;
 }
 
 .description {
   margin-top: 6px;
-  font-size: 25px;
+  font-size: 20px;
   font-weight: 400;
 }
 
@@ -46,9 +45,9 @@
 }
 
 .skill {
-  font-size: 25px;
+  font-size: 17px;
   font-weight: 400;
-  border-radius: 15px;
+  border-radius: 10px;
   background: var(--color-primary);
   padding: 2px 22px;
 }

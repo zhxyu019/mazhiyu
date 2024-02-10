@@ -1,0 +1,31 @@
+[
+  {
+    "title": "Figma",
+    "description":"Frontend Web Development",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "Canva",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "Adobe Illustrator",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Spline",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Fusion360",
+    "imageSrc": "skills/graphql.png"
+  },
+  {
+    "title": "Tinkercad",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Blender",
+    "imageSrc": "skills/figma.png"
+  }
+]
