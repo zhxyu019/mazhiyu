@@ -29,7 +29,6 @@
 }
 
 .skills {
-  width: 100%;
   display: flex;
   flex-wrap: wrap;   
   gap: 37px;
@@ -41,6 +40,7 @@
 }
 
 .skill {
+  flex: 0 0 calc(33.33% - 22px); 
   display: flex; 
   flex-direction: row;
   align-items: center;
