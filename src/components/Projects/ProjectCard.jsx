@@ -8,29 +8,24 @@ export const ProjectCard = ({
 }) => {
   return (
     <div className={styles.container}>
-      <div>
-        <a href = {demo} target="_blank" rel = "noopener noreferrer" className={styles.link}>
-          <img
-            src={getImageUrl(imageSrc)}
-            alt={`Image of ${title}`}
-            className={styles.image}
-          />
-        </a>
-      </div>
-
-      <div>
-        <h3 className={styles.title}>{title}</h3>
-        <p className={styles.description}>{description}</p>
-        <ul className={styles.skills}>
-          {skills.map((skill, id) => {
-            return (
-              <li key={id} className={styles.skill}>
-                {skill}
-              </li>
-            );
-          })}
-        </ul>
-      </div>
+      <a href = {demo} target="_blank" rel = "noopener noreferrer" className={styles.link}>
+        <img
+          src={getImageUrl(imageSrc)}
+          alt={`Image of ${title}`}
+          className={styles.image}
+        />
+      </a>
+      <h3 className={styles.title}>{title}</h3>
+      <p className={styles.description}>{description}</p>
+      <ul className={styles.skills}>
+        {skills.map((skill, id) => {
+          return (
+            <li key={id} className={styles.skill}>
+              {skill}
+            </li>
+          );
+        })}
+      </ul>
     </div>
   );
 };

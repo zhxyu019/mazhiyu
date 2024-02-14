@@ -34,7 +34,7 @@ export const Projects = () => {
 
   return (
     <section className={styles.container} id="projects">
-      <h2 className={styles.title}>Projects</h2>
+      <h2 className={styles.title}>Projects & Publications</h2>
 
       {/* <Slider {...settings}>
         {projects.map((project, id) => (

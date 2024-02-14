@@ -21,7 +21,7 @@ export const Hero = () => {
             </a>
           </li>
           <li className={styles.link}>
-            <a href="https://www.linkedin.com/paperfishh">
+            <a href="https://www.linkedin.com/in/paperfishh/">
               <img
                 src={getImageUrl("contact/linkedinIcon.png")}
                 alt="LinkedIn icon"
@@ -53,7 +53,7 @@ export const Hero = () => {
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
               <p>
-                I tell people I dabble around tech in my free time but ended up pretty involved in it...
+                I tell people I dabble around tech in my free time but ended up pretty involved in it... so I built this dev portfolio to look back on everything i've done in this journey :')
               </p>
             </div>
           </li>
@@ -61,7 +61,7 @@ export const Hero = () => {
             <img src={getImageUrl("about/uiIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
               <p>
-                I'm currently exploring web development and finishing my academic research computing papers
+                I'm currently exploring React and finishing my academic research computing papers
               </p>
             </div>
           </li>

@@ -2,26 +2,26 @@
 
 .container {
   display: flex;
-  flex-direction: row;  
+  flex-direction: column;  
   border-radius: 10px;
   box-shadow: 0 16px 14px 0 #04152d; 
   padding: 20px 20px;
   max-width: 100%; 
   flex: 1;
+  border: 1px solid rgba(255,255,255,0.4);
+  background-color: var(--color-dark);
 }
 
-.image:hover {
+.container:hover{
   background-color: var(--color-secondary);
 }
 
 .image {
   border-radius: 10px;
   width: 90%;
-  max-width: 300px;
+  max-height: 500px; 
   display: block;
   margin: auto;
-  border: 1px solid rgba(255,255,255,0.4);
-  background-color: var(--color-dark);
   padding: 20px 20px;
 }
 
