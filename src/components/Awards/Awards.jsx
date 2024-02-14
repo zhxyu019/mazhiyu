@@ -13,9 +13,17 @@ export const Awards = () => {
               return (
                 <li key={id} className={styles.historyItem}>
                   <div className={styles.historyItemDetails}>
-                    <h3>{`${historyItem.title}`}</h3>
-                    <p>{`${historyItem.organisation}`}</p>
-                    <p>{`${historyItem.description}`}</p>
+                    <a href = {historyItem.demo} target="_blank" rel = "noopener noreferrer">
+                      {historyItem.honour !== "" ? (
+                        <div>
+                          <h3>{`${historyItem.title}`}</h3>
+                          <h3 className={styles.historyItemHonours}>{`${historyItem.honour}`}</h3>
+                        </div>
+                      ) : (
+                        <h3>{`${historyItem.title}`}</h3>
+                      )}
+                      <p>{`${historyItem.organisation} •  ${historyItem.date}`}</p>
+                    </a>
                   </div>
                 </li>
               );

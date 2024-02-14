@@ -45,7 +45,7 @@ export const Hero = () => {
             <img src={getImageUrl("about/serverIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
               <p>
-              I'm a 17-year-old student from Singapore with a passion in software development and academic research.
+              I'm an IB J2 student from Singapore studying PCMBm
               </p>
             </div>
           </li>
@@ -53,7 +53,15 @@ export const Hero = () => {
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
               <p>
-                I'm currently studying PCMBM for the IB examinations in 2024.
+                I tell people I dabble around tech in my free time but ended up pretty involved in it...
+              </p>
+            </div>
+          </li>
+          <li className={styles.aboutItem}>
+            <img src={getImageUrl("about/uiIcon.png")} alt="UI icon" />
+            <div className={styles.aboutItemText}>
+              <p>
+                I'm currently exploring web development and finishing my academic research computing papers
               </p>
             </div>
           </li>

@@ -1,14 +1,86 @@
 [
   {
     "title": "Singapore Girls-in-Tech",
+    "honour" : "Honouree under Singapore Women in Tech (WIT) List in 2023",
     "organisation": "SCS, IMDA",
     "date": "Sept 2023",
-    "description": "One of the 31 honourees as part of the Singapore Girls-in-Tech list"
+    "demo": "https://www.scs.org.sg/awards/sg100wit/2023/girls"
   },
   {
-    "title": "Founder, CEO",
-    "organisation": "Lifesync.co",
-    "date": "Sept 2023",
-    "description": "XXX"
+    "title": "Design Thinking with Robotics & Computational Thinking (DrCT) Competition",
+    "honour": "7th in Singapore, International Silver Award",
+    "organisation": "SIMCC",
+    "date": "Aug 2023",
+    "demo": "https://www.simcconline.org/drct/"
+  },
+  {
+    "title": "Brainhack Code@Exp",
+    "honour": "Best User-Centric Design Champion",
+    "organisation": "DSTA",
+    "date": "Jun 2023",
+    "demo": "https://www.dsta.gov.sg/brainhack"
+  },
+  {
+    "title": "Daisy Phay Foundation Scholarship",
+    "honour": "Awardee of Financial Merit Scholarship",
+    "organisation": "ACS(I)",
+    "date": "May 2023",
+    "demo": ""
+  },
+  {
+    "title": "DSTA Junior College Scholarship",
+    "honour": "Awardee of Defence Tech Scholarship",
+    "organisation": "DSTA",
+    "date": "Apr 2023",
+    "demo": "https://www.dsta.gov.sg/join-us/student/scholarships-awards"
+  },
+  {
+    "title": "Singapore Science & Engineering Fair (SSEF)",
+    "honour": "Finalist",
+    "organisation": "Science Centre Singapore",
+    "date": "Mar 2023",
+    "demo": "https://www.science.edu.sg/for-schools/competitions/singapore-science-and-engineering-fair"
+  },
+  {
+    "title": "JP Morgan GenTech",
+    "honour": "",
+    "organisation": "JP Morgan Singapore",
+    "date": "Aug 2023",
+    "demo": "https://www.jpmorgan.com/technology/news/gen-tech-debuts-in-singapore"
+  },
+  {
+    "title": "MGS Commendation Awards",
+    "honour": "Infocomm Club Distinction in Service & Achievement",
+    "organisation": "MGS",
+    "date": "Aug 2022",
+    "demo": ""
+  },
+  {
+    "title": "IMPACT Festival Makeathon",
+    "honour": "Honourable Mention",
+    "organisation": "LionsForge, People's Association (PA)",
+    "date": "Mar 2022",
+    "demo": "https://www.facebook.com/Lionsforge/posts/the-2022-impact-festival-makeathon-has-successfully-concluded-a-community-innova/1967312506773831/"
+  },
+  {
+    "title": "Asia Pacific Innovation Challenge",
+    "honour": "International 1st Runners Up",
+    "organisation": "AEISEC",
+    "date": "Nov 2021",
+    "demo": "https://sites.google.com/aiesec.net/asia-pacific-innovation-challe/home"
+  },
+  {
+    "title": "Imagine Cup Junior",
+    "honour": "National Top 10",
+    "organisation": "Tinkercademy, Microsoft",
+    "date": "Apr 2021",
+    "demo": "https://imaginecup.microsoft.com/en-us/junior"
+  },
+  {
+    "title": "TI-GC Designing with Graphing Calculators Competition",
+    "honour": "Silver Award, Bronze Award",
+    "organisation": "Texas Instruments",
+    "date": "2020, 2021",
+    "demo": ""
   }
 ]
