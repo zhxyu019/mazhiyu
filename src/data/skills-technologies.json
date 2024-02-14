@@ -1,6 +1,6 @@
 [
   {
-    "title": "Microbit",
+    "title": "Micro:bit",
     "description":"Frontend Web Development",
     "imageSrc": "skills/html.png"
   },
@@ -41,11 +41,15 @@
     "imageSrc": "skills/figma.png"
   },
   {
-    "title": "Firebase",
+    "title": "Google Firebase",
     "imageSrc": "skills/figma.png"
   },
   {
     "title": "Postman",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Tensorflow",
     "imageSrc": "skills/figma.png"
   }
 ]
