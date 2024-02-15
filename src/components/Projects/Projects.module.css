@@ -3,8 +3,8 @@
 .container {
   margin-top: 76px;
   color: var(--color-text);
-  margin-left: 5%;
-  margin-right: 5%;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 .title {
@@ -26,7 +26,7 @@
   width: 100%;
 }
 
-.carouselContainer {
+/* .carouselContainer {
   display: flex;
   align-items: center;
 }
@@ -55,4 +55,4 @@
 .carousel button:hover {
   background-color: var(--color-primary);
   color: var(--color-text-light); 
-}
+} */

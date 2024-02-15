@@ -29,7 +29,7 @@
 }
 
 .skills {
-  display: inline;
+  display: inline-block;
   flex: 1; 
   margin-bottom: 70px;
   background-color: rgba(12, 12, 12, 0.5);

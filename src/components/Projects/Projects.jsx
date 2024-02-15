@@ -6,17 +6,17 @@ import { ProjectCard } from "./ProjectCard";
 
 export const Projects = () => {
 
-  const [currentProjectIndex, setCurrentProjectIndex] = useState(0);
+  // const [currentProjectIndex, setCurrentProjectIndex] = useState(0);
 
-  const showPreviousProject = () => {
-    setCurrentProjectIndex(
-      (prevIndex) => (prevIndex - 1 + projects.length) % projects.length
-    );
-  };
+  // const showPreviousProject = () => {
+  //   setCurrentProjectIndex(
+  //     (prevIndex) => (prevIndex - 1 + projects.length) % projects.length
+  //   );
+  // };
 
-  const showNextProject = () => {
-    setCurrentProjectIndex((prevIndex) => (prevIndex + 1) % projects.length);
-  };
+  // const showNextProject = () => {
+  //   setCurrentProjectIndex((prevIndex) => (prevIndex + 1) % projects.length);
+  // };
 
   // const carouselStyle = {
   //   transform: `translateX(-${currentProjectIndex * 100}%)`,
@@ -49,13 +49,17 @@ export const Projects = () => {
       </div> */}
 
       <div className={styles.projects}>
-        <div className={styles.carousel}>
+        {/* <div className={styles.carousel}>
           <button onClick={showPreviousProject}>⬅</button>
           <div>
             <ProjectCard project={projects[currentProjectIndex]} />
           </div>
           <button onClick={showNextProject}>⮕</button>
-        </div>
+        </div> */}
+        {projects.map((project, id) => {
+          return <ProjectCard key={id} project={project} />;
+        })}
+
       </div> 
 
     </section>
