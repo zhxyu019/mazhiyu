@@ -10,7 +10,7 @@ export const Hero = () => {
         <h1 className={styles.title}>Hi, I'm <span>Zhiyu </span></h1>
         <p className={styles.description}>
         Student at ACS (Independent) <br></br>
-        DSTA JC Scholar, Daisy Phay Foundation Scholar <br></br>
+        Daisy Phay Foundation Scholar, 
         SG Girls-in-Tech 2023 
         </p>
 
@@ -53,7 +53,7 @@ export const Hero = () => {
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
               <p>
-                I tell people I dabble around tech in my free time but ended up pretty involved in it... so I built this dev portfolio to look back on everything i've done in this journey :')
+                I tell people I dabble around tech in my free time but cleary ended up pretty involved in it... :')
               </p>
             </div>
           </li>
@@ -61,7 +61,7 @@ export const Hero = () => {
             <img src={getImageUrl("about/uiIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
               <p>
-                I'm currently exploring React and finishing my academic research computing papers
+                I do mainly software dev (iOS & Web) but I'm pretty open to exploring anything under the sun
               </p>
             </div>
           </li>

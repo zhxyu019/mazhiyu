@@ -1,5 +1,12 @@
 [
   {
+    "title": "Singapore Science & Engineering Fair (SSEF)",
+    "honour" : "Silver Award in SS (Systems Software) Category",
+    "organisation": "NIE",
+    "date": "Mar 2024",
+    "demo": "https://www.science.edu.sg/for-schools/competitions/singapore-science-and-engineering-fair"
+  },
+  {
     "title": "Singapore Girls-in-Tech",
     "honour" : "Honouree under Singapore Women in Tech (WIT) List in 2023",
     "organisation": "SCS, IMDA",
@@ -36,7 +43,7 @@
   },
   {
     "title": "Singapore Science & Engineering Fair (SSEF)",
-    "honour": "Finalist",
+    "honour": "Finalist in SS (Systems Software) Category",
     "organisation": "Science Centre Singapore",
     "date": "Mar 2023",
     "demo": "https://www.science.edu.sg/for-schools/competitions/singapore-science-and-engineering-fair"

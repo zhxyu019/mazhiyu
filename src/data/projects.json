@@ -1,47 +1,26 @@
 [
   {
-    "title": "FoodSaverSG",
-    "imageSrc": "projects/Foodsaversg.png",
-    "description": "2023 • An iOS application that aims to tackle the issue of food wastage in Singapore",
-    "skills": ["Swift", "Figma", "Firebase"],
-    "demo": "www.example.com"
-  },
-  {
-    "title": "GiftDuck - Your Gift Buddy",
-    "imageSrc": "projects/giftduck.jpg",
-    "description": "2022 • An iOS application published on the App Store as part of the Swift Accelerator Programme Class'22",
-    "skills": ["SwiftUI", "Figma"],
-    "demo": "https://apps.apple.com/us/app/giftduck/id6444735527"
-  },
-  {
-    "title": "LifeSync",
-    "imageSrc": "projects/lifesync.png",
-    "description": "2023 • An integrated medication system targeted at the elderly and their caretakers using microneedling technology (hardware) and Cloud Storage (software)",
-    "skills": ["Swift", "Figma", "React", "Tinkercad", "Fusion360", "AWS Cloud", "LLM Models"]
-  },
-  {
-    "title": "Solar Soln",
-    "imageSrc": "projects/solarsoln.png",
-    "description": "2021 • A solar-powered phone charging device to reduce electricity overconsumption in households",
-    "skills": ["Tinkercad"]
-  },
-  {
-    "title": "Web Development using GenAI",
-    "imageSrc": "projects/DSOLLM.png",
-    "description": "2023 • Research paper that entails the development of the rating tool for the DSO LLM Chatbot",
-    "skills": ["Typescript", "Figma", "React", "Docker", "LLM Models", "HTML", "CSS", "Postman"]
-  },
-  {
-    "title": "Evaluation of Drone Detection Technologies",
-    "imageSrc": "projects/ss030.png",
-    "description": "2022 • Academic research paper that compares the YOLOv5 object detection model against other ML models to detect drones and aerial objects using convolutional neural networks (CNNs)",
-    "skills": ["Python", "Roboflow", "Tensorflow"],
-    "demo": "https://www.dsta.gov.sg/ydsp/projects/files/reports/EVALUATION%20OF%20DRONE%20DETECTION%20TECHNOLOGIES.pdf"
-  },
-  {
-    "title": "The Particle Swarm Optimisation (PSO) Algorithm",
+    "title": "Project A",
     "imageSrc": "projects/project.png",
-    "description": "2023 • Academic research paper that modifies the PSO Algorithm to solve discrete optimisation problems such as the Travelling Salesman Problem and its application in ALBA e-waste routing optimisation in Singapore's E-waste collection scene",
-    "skills": ["Python", "Matplotlib"]
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
   }
 ]
