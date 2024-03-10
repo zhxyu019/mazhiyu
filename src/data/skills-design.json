@@ -1,31 +1,37 @@
 [
   {
     "title": "Figma",
-    "description":"Frontend Web Development",
+    "description":"UI/UX Design, Web Design",
     "imageSrc": "skills/html.png"
   },
   {
     "title": "Canva",
+    "description":"Graphic Design",
     "imageSrc": "skills/css.png"
   },
   {
     "title": "Adobe Illustrator",
+    "description":"Graphic Design",
     "imageSrc": "skills/react.png"
   },
   {
     "title": "Spline",
+    "description":"3D Modelling",
     "imageSrc": "skills/node.png"
   },
   {
     "title": "Fusion360",
+    "description":"3D Modelling",
     "imageSrc": "skills/graphql.png"
   },
   {
     "title": "Tinkercad",
+    "description":"3D Modelling",
     "imageSrc": "skills/mongodb.png"
   },
   {
     "title": "Blender",
+    "description":"3D Modelling, Animation",
     "imageSrc": "skills/figma.png"
   }
 ]

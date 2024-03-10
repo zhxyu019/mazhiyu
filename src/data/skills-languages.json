@@ -6,38 +6,47 @@
   },
   {
     "title": "CSS",
+    "description":"Frontend Web Development",
     "imageSrc": "skills/css.png"
   },
   {
     "title": "Javascript",
+    "description":"Web Development",
     "imageSrc": "skills/react.png"
   },
   {
     "title": "R",
+    "description":"Data Analysis",
     "imageSrc": "skills/node.png"
   },
   {
-    "title": "Swift",
+    "title": "Swift, Xcode",
+    "description":"iOS App Development",
     "imageSrc": "skills/graphql.png"
   },
   {
     "title": "C",
+    "description":"Arduino Programming",
     "imageSrc": "skills/mongodb.png"
   },
   {
     "title": "Python",
+    "description":"ML, AI, Statistics",
     "imageSrc": "skills/figma.png"
   },
   {
     "title": "SQL",
+    "description":"Statistics",
     "imageSrc": "skills/figma.png"
   },
   {
     "title": "React",
+    "description":"Web Development",
     "imageSrc": "skills/figma.png"
   },
   {
     "title": "TypeScript",
+    "description":"Web Development",
     "imageSrc": "skills/figma.png"
   }
 ]
