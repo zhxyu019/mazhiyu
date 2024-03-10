@@ -1,25 +1,41 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "FoodSaverSG",
+    "imageSrc": "projects/Foodsaversg.png",
+    "description": "Brainhack Code@Exp • An application that aims to tackle the issue of food wastage in Singapore",
+    "skills": [],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "title": "GiftDuck",
+    "imageSrc": "projects/giftduck.jpg",
+    "description": "SAP'2022 Project • An iOS application published on the App Store that aims to help users remember birthdays",
+    "skills": [],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project C",
+    "title": "LifeSync",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "An integrated Medication System that harnesses microneedling technology and an application",
+    "skills": [],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "SolarSoln",
+    "imageSrc": "projects/solarsoln.png",
+    "description": "A solar-powered phone charging device that aims to reduce electricity overconsumption",
+    "skills": [],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Spamshield",
+    "imageSrc": "projects/project.png",
+    "description": "WWDC'24 Submission, Application built using SwiftUI & CoreML that aims to educate users against spamming",
+    "skills": [],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   }

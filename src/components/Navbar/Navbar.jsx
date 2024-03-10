@@ -9,7 +9,7 @@ export const Navbar = () => {
   return (
     <nav className={styles.navbar}>
       <a className={styles.title} href="/">
-          Ma Zhiyu
+          Ma Zhiyu 𓆟 
       </a>
       <div className={styles.menu}>
         <img

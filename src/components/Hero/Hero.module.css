@@ -7,8 +7,8 @@
   justify-content: space-between;
   margin-top: 49px;
   z-index: 1;
-  margin-left: 10%;
-  margin-right: 10%;
+  margin-left: 20%;
+  margin-right: 20%;
 }
 
 .content, .content2{
@@ -40,7 +40,7 @@
     rgba(255, 255, 255, 0) 120%
   );
   -webkit-text-fill-color: transparent;
-  -webkit-background-clip: text;
+  -webkit-background-clip: text; 
   animation-name: floating;
   animation-duration: 3s;
   animation-iteration-count: infinite;
@@ -128,7 +128,7 @@
 .topBlur {
   position: absolute;
   width: 50vw;
-  height: 50vw;
+  height: 25vw;
   min-width: 350px;
   min-width: 350px;
   top: -128px;
