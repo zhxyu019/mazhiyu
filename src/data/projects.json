@@ -1,42 +1,41 @@
 [
   {
     "title": "FoodSaverSG",
-    "imageSrc": "projects/Foodsaversg.png",
+    "imageSrc": "projects/FoodSaverSG.png",
     "description": "Brainhack Code@Exp • An application that aims to tackle the issue of food wastage in Singapore",
     "skills": [],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/zhxyu019/FoodSaverSG",
+    "feature": ""
   },
   {
     "title": "GiftDuck",
     "imageSrc": "projects/giftduck.jpg",
     "description": "SAP'2022 Project • An iOS application published on the App Store that aims to help users remember birthdays",
     "skills": [],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/DWizard11/GiftHub",
+    "feature": "https://apps.apple.com/us/app/giftduck/id6444735527"
   },
   {
     "title": "LifeSync",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/lifesync.png",
     "description": "An integrated Medication System that harnesses microneedling technology and an application",
     "skills": [],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "",
+    "feature": "https://www.scs.org.sg/awards/splash/2023/announcement"
   },
   {
     "title": "SolarSoln",
     "imageSrc": "projects/solarsoln.png",
-    "description": "A solar-powered phone charging device that aims to reduce electricity overconsumption",
+    "description": "IMPACT festival • A solar-powered phone charging device that aims to reduce electricity overconsumption",
     "skills": [],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "feature": "https://www.instagram.com/p/CbRMkMsKOFT/"
   },
   {
     "title": "Spamshield",
-    "imageSrc": "projects/project.png",
-    "description": "WWDC'24 Submission, Application built using SwiftUI & CoreML that aims to educate users against spamming",
+    "imageSrc": "projects/WWDC.png",
+    "description": "WWDC'24 Submission • Application built using SwiftUI & CoreML that uses text classification and sentiment analysis to detect harmful spam messages",
     "skills": [],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "feature": "",
+    "source": "https://github.com/zhxyu019/WWDC24App.swiftpm"
   }
 ]

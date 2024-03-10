@@ -141,12 +141,12 @@
 
  .bottomBlur {
   position: absolute;
-  width: 70vw;
+  width: 60vw;
   height: 30vw;
   min-width: 350px;
   min-width: 250px;
   top: 150px;
-  right: -25vw;
+  right: -15vw;
   border-radius: 764px;
   background: rgba(25, 55, 109, 0.7);
   filter: blur(100px);
