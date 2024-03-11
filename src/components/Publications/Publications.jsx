@@ -16,9 +16,11 @@ export const Publications = () => {
                   <div className={styles.historyItemDetails}>
                     <h3>{`${publications.title}`}</h3>
                     <p>{`${publications.organisation} •  ${publications.date}`}</p>
-                    <a href = {publications.demo} target="_blank" rel = "noopener noreferrer">
+                    {publications.demo != "" && (
+                      <a href = {publications.demo} target="_blank" rel = "noopener noreferrer">
                       Research Paper
-                    </a>
+                      </a>
+                    )}
                   </div>
                 </li>
               );

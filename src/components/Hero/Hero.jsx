@@ -7,7 +7,7 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Zhiyu </h1>
+        <h1 className={styles.title}>Hi, I'm Zhiyu ◡̈ </h1>
         <p className={styles.description}>
         Student at ACS (Independent) <br></br>
         Daisy Phay Foundation Scholar, 
@@ -36,22 +36,6 @@ export const Hero = () => {
               />
             </a>
           </li>
-          <li className={styles.link}>
-            <a href="discordapp.com/users/896248226745831434">
-              <img
-                src={getImageUrl("contact/discordIcon.png")}
-                alt="Discord icon"
-              />
-            </a>
-          </li>
-          <li className={styles.link}>
-            <a href="https://ch.tetr.io/u/paperfishhh">
-              <img
-                src={getImageUrl("contact/tetrisIcon.png")}
-                alt="Tetris icon"
-              />
-            </a>
-          </li>
         </ul>
       </div>
 
@@ -69,7 +53,7 @@ export const Hero = () => {
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
               <p>
-                I tell people I dabble around tech as a hobby but ended up in the tech spiral...
+                I tell people I dabble around tech as a hobby but ended up in the tech spiral... 
               </p>
             </div>
           </li>
@@ -77,7 +61,7 @@ export const Hero = () => {
             <img src={getImageUrl("about/uiIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
               <p>
-                I do mainly software dev (iOS & Web) & UI/UX design but I explore pretty much everything ฅ^._.^ฅ
+                I do mainly software dev (iOS & Web) & UI/UX design but I explore pretty much everything 
               </p>
             </div>
           </li>

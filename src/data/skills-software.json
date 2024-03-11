@@ -31,22 +31,22 @@
   },
   {
     "title": "Docker",
-    "description":"Container Management",
+    "description":"Containerisation Management",
     "imageSrc": "skills/docker.png"
   },
   {
     "title": "Micro:bit",
-    "description":"Frontend Web Development",
+    "description":"Microcontrollers",
     "imageSrc": "skills/microbit.png"
   },
   {
     "title": "Arduino",
-    "description":"Frontend Web Development",
+    "description":"Servo Motor, ATtiny85, ESP85 Camera",
     "imageSrc": "skills/arduino.png"
   },
   {
     "title": "Robomasters",
-    "description":"Frontend Web Development",
+    "description":"Robotics",
     "imageSrc": "skills/robomasters.png"
   }
 ]

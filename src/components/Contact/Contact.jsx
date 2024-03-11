@@ -22,6 +22,14 @@ export const Contact = () => {
           <img src={getImageUrl("contact/githubIcon.png")} alt="Github icon" />
           <a href="https://www.github.com/zhxyu019"></a>
         </li>
+        <li className={styles.link}>
+          <img src={getImageUrl("contact/discordIcon.png")} alt="Discord icon" />
+          <a href="discordapp.com/users/896248226745831434"></a>
+        </li>
+        <li className={styles.link}>
+          <img src={getImageUrl("contact/tetrisIcon.png")} alt="Tetris icon" />
+          <a href="https://ch.tetr.io/u/paperfishhh"></a>
+        </li>
       </ul>
       <div className={styles.text}>
         <h2>Made by Ma Zhiyu.</h2>
