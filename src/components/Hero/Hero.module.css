@@ -59,7 +59,7 @@
   flex-direction: row;
   align-items: flex-start; 
   list-style: none;
-  gap: 20px;
+  gap: 21px;
 }
 
 .link {
