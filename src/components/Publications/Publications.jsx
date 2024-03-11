@@ -7,6 +7,7 @@ export const Publications = () => {
   return (
     <section className={styles.container} id="publications">
       <h2 className={styles.title}> Publications </h2>
+      <p className={styles.subtitle}> none of these are actually published (yet) they're just cool tech research stuff i've lost brain cells over...</p>
       <div>
         <ul className={styles.history}>
             {publications.map((publications, id) => {

@@ -36,6 +36,22 @@ export const Hero = () => {
               />
             </a>
           </li>
+          <li className={styles.link}>
+            <a href="discordapp.com/users/896248226745831434">
+              <img
+                src={getImageUrl("contact/discordIcon.png")}
+                alt="Discord icon"
+              />
+            </a>
+          </li>
+          <li className={styles.link}>
+            <a href="https://ch.tetr.io/u/paperfishhh">
+              <img
+                src={getImageUrl("contact/tetrisIcon.png")}
+                alt="Tetris icon"
+              />
+            </a>
+          </li>
         </ul>
       </div>
 
