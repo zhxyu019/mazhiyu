@@ -6,42 +6,47 @@
   },
   {
     "title": "Github",
-    "description":"Git Remote",
-    "imageSrc": "skills/figma.png"
+    "description":"Git Remote, Pages, Actions",
+    "imageSrc": "skills/github.png"
   },
   {
     "title": "Gitlab",
     "description":"Github Desktop",
-    "imageSrc": "skills/figma.png"
+    "imageSrc": "skills/gitlab.png"
   },
   {
     "title": "Google Firebase",
     "description":"Authentication",
-    "imageSrc": "skills/figma.png"
+    "imageSrc": "skills/firebase.png"
   },
   {
     "title": "AWS Cloud",
     "description":"Authentication, Data Storage",
-    "imageSrc": "skills/figma.png"
+    "imageSrc": "skills/awscloud.png"
   },
   {
     "title": "Postman",
     "description":"API Management",
-    "imageSrc": "skills/figma.png"
+    "imageSrc": "skills/postman.png"
+  },
+  {
+    "title": "Docker",
+    "description":"Container Management",
+    "imageSrc": "skills/docker.png"
   },
   {
     "title": "Micro:bit",
     "description":"Frontend Web Development",
-    "imageSrc": "skills/html.png"
+    "imageSrc": "skills/microbit.png"
   },
   {
     "title": "Arduino",
     "description":"Frontend Web Development",
-    "imageSrc": "skills/node.png"
+    "imageSrc": "skills/arduino.png"
   },
   {
     "title": "Robomasters",
     "description":"Frontend Web Development",
-    "imageSrc": "skills/mongodb.png"
+    "imageSrc": "skills/robomasters.png"
   }
 ]

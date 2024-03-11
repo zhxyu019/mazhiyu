@@ -69,7 +69,7 @@ export const Hero = () => {
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
               <p>
-                I tell people I dabble around tech in my free time but cleary ended up pretty involved in it... :')
+                I tell people I dabble around tech as a hobby but ended up in the tech spiral...
               </p>
             </div>
           </li>
@@ -77,19 +77,12 @@ export const Hero = () => {
             <img src={getImageUrl("about/uiIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
               <p>
-                I do mainly software dev (iOS & Web) but I'm pretty open to exploring anything under the sun
+                I do mainly software dev (iOS & Web) & UI/UX design but I explore pretty much everything ฅ^._.^ฅ
               </p>
             </div>
           </li>
         </ul>
       </div>
-
-      {/* <img
-        src={getImageUrl("hero/heroImage.png")}
-        alt="Hero image of me"
-        className={styles.heroImg}
-      /> */}
-
       <div className={styles.topBlur} />
       <div className={styles.bottomBlur} />
     </section>

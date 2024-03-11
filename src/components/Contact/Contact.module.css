@@ -19,15 +19,14 @@
 .links {
   display: flex;
   flex-direction: row;
-  align-items: flex-start;
-  list-style: none;
+  align-items: flex-start; 
   margin-bottom: 10px;
 }
 
 .link {
   display: flex;
   align-items: center;
-  gap: 5px;
+  gap: 10px;
 }
 
 .link a {

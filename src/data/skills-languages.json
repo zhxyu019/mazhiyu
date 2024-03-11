@@ -12,7 +12,17 @@
   {
     "title": "Javascript",
     "description":"Web Development",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "React",
+    "description":"Web Development",
     "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "TypeScript",
+    "description":"Web Development",
+    "imageSrc": "skills/typescript.png"
   },
   {
     "title": "R",
@@ -22,31 +32,21 @@
   {
     "title": "Swift, Xcode",
     "description":"iOS App Development",
-    "imageSrc": "skills/graphql.png"
+    "imageSrc": "skills/swift.png"
   },
   {
     "title": "C",
     "description":"Arduino Programming",
-    "imageSrc": "skills/mongodb.png"
+    "imageSrc": "skills/c.png"
   },
   {
     "title": "Python",
     "description":"ML, AI, Statistics",
-    "imageSrc": "skills/figma.png"
+    "imageSrc": "skills/python.png"
   },
   {
     "title": "SQL",
     "description":"Statistics",
-    "imageSrc": "skills/figma.png"
-  },
-  {
-    "title": "React",
-    "description":"Web Development",
-    "imageSrc": "skills/figma.png"
-  },
-  {
-    "title": "TypeScript",
-    "description":"Web Development",
-    "imageSrc": "skills/figma.png"
+    "imageSrc": "skills/sql.png"
   }
 ]
